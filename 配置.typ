@@ -23,12 +23,12 @@
 // 封面/logo 走模板默认;要加图就把图片放进本项目,再 cover: image("…") / logo: image("…")。
 // / Web template: applied by the entry point via #show.
 #let 网页模板 = 地狱之下模板.with(
-  title: "我的设定集",
-  subtitle: "一个崭新的世界",
-  author: "你的名字",
+  title: "侍寝记",
+  subtitle: "顾名思义",
+  author: "跨越晨昏",
   lang: "zh",
   paper: "a4",
-  品牌名: "我的世界",
+  品牌名: "地狱之下",
   备案号: "",
   元素系统数据: 元素数据,
 )
